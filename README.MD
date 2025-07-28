@@ -37,4 +37,3 @@ Desenvolver uma API REST com dois endpoints para gerenciar listas de produtos de
 - A escolha entre S3 e local é feita através do arquivo de propriedades:  
   ```properties
   storage.type=s3        # ou: local
-```
